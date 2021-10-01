@@ -7,8 +7,10 @@ relative_links:
 github:
   is_project_page: false
 
-title: A Multi-Scale Time-Frequency Spectrogram Discriminator for GAN-based Non-Autoregressive TTS
+title: Demo Page
 description:
-  Haohan Guo<sup>1</sup>, Hui Lu<sup>1</sup>,  Xixin Wu<sup>1</sup>, Helen Meng<sup>1</sup> <br>
+  A Multi-Scale Time-Frequency Spectrogram Discriminator for GAN-based Non-Autoregressive TTS <br>
   <br>
-  <sup>1</sup> The Chinese University of Hong Kong, Hong Kong SAR, China <br>
+  Haohan Guo, Hui Lu,  Xixin Wu, Helen Meng <br>
+  <br>
+  The Chinese University of Hong Kong, Hong Kong SAR, China <br>
